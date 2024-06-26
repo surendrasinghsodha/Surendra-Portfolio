@@ -127,7 +127,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'surendradjangotest@gmail.com'
-EMAIL_HOST_PASSWORD = 'Sure@2727'
+EMAIL_HOST_PASSWORD = 'vhgu rpar wkdh xcis'
 
 # crispy
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
