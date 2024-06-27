@@ -22,15 +22,18 @@ def contact_view(request):
 
     subject = "Thank you for contacting us"
     message = 'Hello, ' + request.POST[
-        'name'] + '\n\n' + 'I have received your message and will get back to you soon.\n\nBest regards\n Surendrasingh Sodha'
+        'name'] + '\n\n' + 'I have received your message and will get back to you soon.\n\nBest regards\nSurendrasingh Sodha'
     email_from = settings.EMAIL_HOST_USER
     recipient_list = [request.POST['email'], ]
     send_mail(subject, message, email_from, recipient_list)
 
     subject1 = 'Contact from Website'
-    message1 = 'Hello Surendrasingh, ' + '\n\n' + request.POST['name'] + ' want to contact you.' + '\n\n' + 'Name : ' + \
-               request.POST['name'] + '\n' + 'Email : ' + request.POST['email'] + '\n' + 'Subject : ' + request.POST[
-                   'subject'] + '\n' + 'Message : ' + request.POST['message']
+    message1 = ('Hello Surendrasingh, ' + '\n\n' + request.POST['name'] + ' want to contact you.' + '\n\n' + \
+                'Name : ' + request.POST['name'] + '\n' +
+                'Email : ' + request.POST['email'] + '\n' +
+                'Phone : ' + phone + '\n' +
+                'Subject : ' + request.POST['subject'] + '\n' +
+                'Message : ' + request.POST['message'])
     recipient_list1 = ['surendradjangotest@gmail.com', ]
     send_mail(subject1, message1, email_from, recipient_list1)
 
