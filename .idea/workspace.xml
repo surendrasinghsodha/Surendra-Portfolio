@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf3616e9-ada3-4c60-ace3-976e24cd9d8f" name="Changes" comment="" />
+    <list default="true" id="cf3616e9-ada3-4c60-ace3-976e24cd9d8f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/DocScanner Apr 7, 2022 6-26 PM.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/IMG20220614131512-01.jpeg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/NSDC Certificate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/Sodha_Surendrasingh_Ratansingh_machine_learning.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/Training Certificate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/bbbb.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/bbe.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/beach.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/beachh.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/beeach.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/burj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/dub_ferari.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/dub_jum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/dub_mus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/dwarka.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/ferrari_car.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/ferrari_carr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/image_1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/image_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/image_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/image_burj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/image_burjj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/external_image/img_mirror.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/assets/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/about_me.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/templates/about_me.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/certificates.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/templates/certificates.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/templates/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/image.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/templates/image.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +48,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -31,6 +66,8 @@
     &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/suren/Desktop/Portfolio project&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -92,6 +129,9 @@
       <workItem from="1718986899027" duration="2682000" />
       <workItem from="1719221831672" duration="7118000" />
       <workItem from="1719306518620" duration="9018000" />
+      <workItem from="1719653946473" duration="1453000" />
+      <workItem from="1719660612766" duration="12000" />
+      <workItem from="1719911802010" duration="6544000" />
     </task>
     <servers />
   </component>
